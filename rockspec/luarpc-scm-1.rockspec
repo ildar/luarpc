@@ -31,5 +31,8 @@ build = {
             "LUARPC_ENABLE_SOCKET"
          }
       }
+   },
+   copy_directories = {
+      "doc", "tests"
    }
 }
